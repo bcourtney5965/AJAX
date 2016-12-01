@@ -21,3 +21,6 @@ app.listen(8000, function () {
 // am I serving the right stuff? or
 // do I have to serve the bundle?
 
+// some resources say to serve sendFile('bundle.js');
+// But I don't see any in create react app
+
